@@ -23,7 +23,7 @@ gem 'devise_invitable', '~> 2.0'
 gem 'cancan'
 gem 'omniauth-facebook'
 gem 'omniauth-google-oauth2'
-gem 'google-api-client', :require => 'google/api_client'
+gem 'google-api-client', :require => 'google/apis'
 gem 'httparty'
 gem 'rack-ssl-enforcer'
 # Uploads
