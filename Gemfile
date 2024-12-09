@@ -106,13 +106,13 @@ group	 :development do
   # gem  'rvm-capistrano',  require: false
   gem 'capistrano', '~> 3.0'
   gem 'capistrano-rails', '~> 1.6'
-  gem 'capistrano3-puma', '~> 5.2'
+  # gem 'capistrano3-puma', '~> 5.2'
   gem 'byebug'
   gem 'better_errors'
   gem 'binding_of_caller'
   gem 'awesome_pry'
   gem 'colorize'
-  gem 'puma', '>= 5.0'
+  gem 'puma', '>= 6.0'
 end
 
 gem 'dotenv-rails'
